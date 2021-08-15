@@ -1,0 +1,89 @@
+.topcontainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  background-color: #E4F9F5;
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+}
+
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+.the_middle_container {
+
+}
+
+.the_bottam_container {
+
+}
+.icons
+{
+  width: 30px;
+  padding-left: 20px;
+}
+
+.pro {
+  text-decoration: underline;
+  ;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row
+{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+
+}
+.game-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.code-img{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+  padding-top: 10px;
+}
